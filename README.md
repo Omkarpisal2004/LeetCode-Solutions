@@ -36,6 +36,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## String
 |  |
@@ -58,9 +59,14 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
