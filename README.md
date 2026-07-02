@@ -39,6 +39,7 @@
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## String
@@ -78,9 +79,14 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
