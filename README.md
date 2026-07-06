@@ -22,6 +22,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -87,6 +88,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -104,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
