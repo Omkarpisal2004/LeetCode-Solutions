@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +105,9 @@
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
