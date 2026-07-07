@@ -93,6 +93,7 @@
 | [0503-next-greater-element-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
