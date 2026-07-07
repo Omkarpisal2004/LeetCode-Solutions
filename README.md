@@ -59,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
@@ -88,6 +89,7 @@
 | [0042-trapping-rain-water](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0503-next-greater-element-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0682-baseball-game) |
