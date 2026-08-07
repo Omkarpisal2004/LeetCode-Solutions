@@ -40,6 +40,7 @@
 | [0143-reorder-list](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -130,6 +132,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
