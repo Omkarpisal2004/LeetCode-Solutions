@@ -42,6 +42,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0724-find-pivot-index](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Merge Sort
 |  |
 | ------- |
@@ -174,4 +177,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
