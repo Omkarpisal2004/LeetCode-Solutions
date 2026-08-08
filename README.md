@@ -43,6 +43,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -155,6 +157,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
 |  |
 | ------- |
