@@ -42,6 +42,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -59,6 +60,7 @@
 | [0682-baseball-game](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## String
 |  |
@@ -66,6 +68,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Omkarpisal2004/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
